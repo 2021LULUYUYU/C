@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1628150760 source:c:\users\administrator\desktop\代码\练习4\game\game.c
+	"game.h"
+
+1628093886 c:\users\administrator\desktop\代码\练习4\game\game.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1628149468 source:c:\users\administrator\desktop\代码\练习4\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1631000224 source:c:\users\administrator\desktop\代码\练习4p18p18未完成\game\game.c
+	"game.h"
+
+1630996306 c:\users\administrator\desktop\代码\练习4p18p18未完成\game\game.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1631000265 source:c:\users\administrator\desktop\代码\练习4p18p18未完成\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
